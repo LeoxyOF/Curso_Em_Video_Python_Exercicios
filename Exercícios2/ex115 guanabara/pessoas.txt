@@ -1,4 +1,0 @@
-Leonardo;14
-Caio;18
-Maria;76
-Josè;75
